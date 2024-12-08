@@ -8,7 +8,9 @@
     "custom.ts",
     "icon.png"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "microbit_8_bit_port": "https://github.com/programatorovic/microbit_8_bit_port.git"
+  },
   "supportedTargets": [
     "microbit"
   ]
