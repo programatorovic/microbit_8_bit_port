@@ -1,0 +1,15 @@
+{
+  "name": "8-Bit Port",
+  "version": "0.1.0",
+  "description": "Rozšírenie pre blokové programovanie na posielanie bajtov cez výstupné porty Micro:bitu.",
+  "files": [
+    "main.ts",
+    "README.md",
+    "custom.ts",
+    "icon.png"
+  ],
+  "dependencies": {},
+  "supportedTargets": [
+    "microbit"
+  ]
+}
